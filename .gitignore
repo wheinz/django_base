@@ -1,0 +1,45 @@
+# Byte-compiled / optimized Python files
+__pycache__/
+*.py[cod]
+
+# C extensions
+*.so
+
+# Distribution / packaging
+/dist/
+.build/
+
+# Django generated files
+*.log
+*.pot
+*.pyc
+local_settings.py
+
+# Static files (CSS, JavaScript, Images)
+staticfiles
+/node_modules/
+
+# Media files
+/media/
+
+# Database files
+*.sqlite3
+
+# Environment variables
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+
+# Compiled Python bytecode
+*.pyc
+
+# macOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+
+# Virtual environment
+venv/

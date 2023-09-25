@@ -1,0 +1,4 @@
+SECRET_KEY = replace_with_keygen.py_code
+DEBUG = True
+ALLOWED_HOSTS = *
+CSRF_TRUSTED_ORIGINS = http://localhost
